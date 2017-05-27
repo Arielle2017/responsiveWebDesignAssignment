@@ -1,0 +1,107 @@
+
+header {
+    font-size: 280%;
+    font-weight: bold;
+    color: white;
+    margin: 55px 0 0 0;
+
+}
+
+h4 {
+    color: white;
+}
+
+h3 {
+    font-size: 155%;
+}
+
+.opening-url {
+              background-color: black;
+              text-decoration: underline;
+              height: 185px;
+
+
+}
+.opening {
+          background-color: black;
+          color:white;
+}
+
+.urls {
+          display: flex;
+          flex-flow: row;
+          justify-content: space-around;
+          align-items: center;
+          background-color: gray;
+          height: 40px;
+
+}
+
+.candy-personality {
+
+}
+
+.fixed-flow01{
+              display: flex;
+              flex-flow: row;
+              justify-content: space-around;
+
+}
+
+.fixed-flow02 {
+              display: flex;
+              flex-flow: row;
+              margin: 0;
+            }
+
+.reminder { color:pink;
+
+}
+
+.container {
+            display: flex;
+            flex-flow: row;
+            justify-content: space-around;
+
+}
+.container01 {
+              display: flex;
+              flex-flow: column;
+              margin: 15px;
+              width: 70%;
+}
+.container02 {
+                display: flex;
+                flex-flow: column;
+                align-items: center;
+                border-color: black;
+                border-width: thin;
+                border-style: inset;
+                height: 785px;
+                margin-top: 60px;
+                position: relative;
+}
+
+.photo-candy01 {
+                flex: 1;
+                flex-direction: column;
+                margin: 10px;
+
+
+}
+
+.photo-candy02 {
+                display: flex;
+                flex: 2;
+                flex-direction: column;
+                  align-items: flex-start;
+                  margin: 10px;
+
+}
+
+footer#footer {
+          background-color: black;
+          color: white;
+          height: 140px;
+          margin: 0;
+}
